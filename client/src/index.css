@@ -11,6 +11,7 @@
 }
 
 @theme {
-  --primary-color: #2563EB;
-  --second-color: #FBBF24;
+  --color-primary: #2563EB;
+  --color-secondary: #FBBF24;
+  --shadow-a: 0px 0px 20px rgba(0, 0, 0, 0.15);
 }
